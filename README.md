@@ -1,3 +1,10 @@
+
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/add.PNG "add")
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/Review.PNG "Review")
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/SearchId.PNG "SearchId")
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/full.PNG "full")
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/delete.PNG "delete")
+![Alt text](https://github.com/ivany93/Report-Angular-Rest/blob/master/img/Update.PNG "Update")
 Yii 2 Basic Project Template
 ============================
 
